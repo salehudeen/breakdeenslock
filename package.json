@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/salehudeen/breaklock.git"
+    "url": "https://github.com/salehudeen/breakdeenslock.git"
   },
   "author": "salehudeen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/salehudeen/breaklock/issues"
+    "url": "https://github.com/salehudeen/breakdeenslock/issues"
   },
-  "homepage": "https://github.com/salehudeen/breaklock",
+  "homepage": "https://github.com/salehudeen/breakdeenslock",
   "devDependencies": {
     "babel-core": "^6.24.0",
     "babel-loader": "^6.4.1",

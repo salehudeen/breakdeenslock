@@ -38,7 +38,7 @@ const config = {
     MESSAGE: 'I wasted my time on BreakDeensLock, it\'s pointless, don\'t try it.',
     TAGS: ['BreakDeensLock']
   },
-  URL: 'https://salehudeen.github.io/breaklock/',
+  URL: 'https://salehudeen.github.io/breakdeenslock/',
   COLORS: {
     BRIGHT:  '#ffffff',
     DARK:    '#14171b',

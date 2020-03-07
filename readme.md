@@ -1,6 +1,6 @@
 ![deens lock ](assets/banner.png)
 
-### Bring me to the **[game](https://maxwellito.github.io/breaklock/)**!
+### Bring me to the **[game](https://salehudeen.github.io/breaklock/)**!
 
 Silly HTML5 game, mobile first.
 BreakDeensLock is a hybrid of Mastermind and the Android pattern lock. A game you gonna love to hate.
